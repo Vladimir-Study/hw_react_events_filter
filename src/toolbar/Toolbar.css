@@ -1,0 +1,18 @@
+.toolbar__ul {
+  justify-content: start;
+  margin: 0.5em 0 0.5em;
+  padding: 0;
+  display: flex;
+  list-style: none;
+}
+
+.toolbar__li {
+  padding: 0.5em;
+  margin-right: 0.5em;
+  border: 1px solid black;
+  cursor: pointer;
+}
+ .active {
+  background-color: black;
+  color: white;
+ }

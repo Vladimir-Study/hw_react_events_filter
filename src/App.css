@@ -1,0 +1,8 @@
+#root {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  width: 80vw;
+  margin: 0 auto;
+  text-align: center;
+}
